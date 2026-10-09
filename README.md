@@ -46,6 +46,9 @@ Script para monitoramento de ativos de rede via ping e verificação de portas T
 Laboratório completo de AD com Windows Server, incluindo criação de usuários, grupos, OUs, GPO e automação via PowerShell.
 `Active Directory` `Windows Server` `PowerShell`
 
+### 🔊 [Texto para Áudio - Python](https://github.com/WolfiBr66/texto-para-audio-python)
+Script em Python que converte arquivos de texto em áudio MP3 com vozes neurais da Microsoft (edge-tts). Ideal para estudar em trânsito e apoiar acessibilidade.
+`Python` `TTS` `Automação` `asyncio`
 ---
 
 ## 📜 Certificações e Cursos
